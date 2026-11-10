@@ -1,0 +1,16 @@
+id_producto,nombre_producto,categoria,costo_unitario,precio_lista
+PROD-001,Auriculares Bluetooth Inalámbricos,Electrónica,4200.00,7500.00
+PROD-002,Teclado Mecánico RGB,Electrónica,8500.00,14900.00
+PROD-003,Mouse Ergonómico Inalámbrico,Electrónica,3100.00,5800.00
+PROD-004,Monitor Gamer 24 Pulgadas FHD,Electrónica,45000.00,78000.00
+PROD-005,Silla Ergonómica de Oficina,Hogar & Muebles,32000.00,55000.00
+PROD-006,Escritorio Regulable Moderno,Hogar & Muebles,28000.00,49000.00
+PROD-007,Lámpara LED Escritorio Touch,Hogar & Muebles,2900.00,5200.00
+PROD-008,Mochila Portanotebook Impermeable,Accesorios,6200.00,11500.00
+PROD-009,Funda Protectora Laptop 15",Accesorios,1800.00,3400.00
+PROD-010,Soporte de Aluminio para Laptop,Accesorios,3500.00,6900.00
+PROD-011,Remera Deportiva Dry-Fit,Indumentaria,2400.00,4900.00
+PROD-012,Buzo Hoodie Oversize Unisex,Indumentaria,7900.00,14500.00
+PROD-013,Zapatillas Urbanas Canvas,Indumentaria,12000.00,21900.00
+PROD-014,Botella Térmica Acero Inox 750ml,Hogar & Muebles,2600.00,4800.00
+PROD-015,Cable USB-C Carga Rápida 2m,Accesorios,950.00,2100.00

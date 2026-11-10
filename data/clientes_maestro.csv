@@ -1,0 +1,16 @@
+id_cliente,nombre_completo,email,provincia,segmento_cliente
+CLI-101,Lucía Fernández,lucia.fernandez@gmail.com,Buenos Aires,Consumidor Final
+CLI-102,Martín Gómez,martin.gomez@hotmail.com,CABA,Consumidor Final
+CLI-103,Santiago Romero,sromero@empresa-tech.com,Córdoba,Corporativo
+CLI-104,Camila Díaz,camila.diaz@yahoo.com.ar,Santa Fe,Consumidor Final
+CLI-105,Ignacio Benítez,ignacio.b@outlook.com,Mendoza,Consumidor Final
+CLI-106,Valentina Morales,vmorales@consultora.com.ar,CABA,Corporativo
+CLI-107,Mateo Álvarez,mateo.alvarez@gmail.com,Buenos Aires,Consumidor Final
+CLI-108,Sofía Herrera,sofia.h@gmail.com,Tucumán,Consumidor Final
+CLI-109,Joaquín Castro,jcastro@estudio-legal.com,Neuquén,Corporativo
+CLI-110,Julieta Ortiz,juli.ortiz@gmail.com,Entre Ríos,Consumidor Final
+CLI-111,Lucas Silva,lucas.silva@gmail.com,CABA,Consumidor Final
+CLI-112,Micaela Navarro,mnavarro@gmail.com,Buenos Aires,Consumidor Final
+CLI-113,Facundo Pereyra,fpereyra@agencia.com,Córdoba,Corporativo
+CLI-114,Agustina Domínguez,agus.dominguez@gmail.com,Salta,Consumidor Final
+CLI-115,Tomás Ramos,tomas.ramos@gmail.com,Santa Fe,Consumidor Final
